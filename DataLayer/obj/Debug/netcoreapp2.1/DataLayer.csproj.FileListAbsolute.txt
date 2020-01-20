@@ -1,0 +1,15 @@
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\jaffe\source\repos\Dapper\02\demos\demos\after\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\jaffe\source\repos\DapperDemo\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
